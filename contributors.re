@@ -56,7 +56,7 @@ Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配
         \includegraphics[width=.75\linewidth]{images/contributors/hanai.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        hanai @hanahiro_aze https://twitter.com/hanahiro_aze\\
+        hanai @hanahiro\_aze https://twitter.com/hanahiro\_aze\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -99,3 +99,5 @@ TACO Organizer, カンファレンススタッフなどお手伝いをよくし�
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
+
+#@# アンダーバー使う場合は、\_ として下さい。エラー出ます。
