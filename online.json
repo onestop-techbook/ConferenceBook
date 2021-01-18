@@ -26,8 +26,9 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-      "chap-company.md"
-      "chap-on-the-day.md"
+      "chap-company.md",
+      "chap-on-the-day.md",
+      "chap-on-the-day-interaction.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
