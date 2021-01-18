@@ -28,7 +28,9 @@
     "CHAPS": [
       "chap-company.md",
       "chap-on-the-day.md",
-      "chap-on-the-day-interaction.md"
+      "chap-on-the-day-interaction.md",
+      "chap-at-a-later-date.md",
+      "chap-at-a-later-date-blog.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
