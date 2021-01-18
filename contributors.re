@@ -36,8 +36,6 @@
 
 == 執筆者
 
-　
-
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -52,6 +50,17 @@
 人の力で世界を便利にする企業で働いているWebディレクター
 Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/hanai.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        hanai @hanahiro_aze https://twitter.com/hanahiro_aze\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+TACO Organizer, カンファレンススタッフなどお手伝いをよくしています。
 　
 
 //embed{
