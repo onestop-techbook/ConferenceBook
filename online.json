@@ -27,6 +27,7 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
       "chap-company.md"
+      "chap-on-the-day.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
