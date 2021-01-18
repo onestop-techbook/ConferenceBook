@@ -1,7 +1,7 @@
 = 著者紹介
 
 #@# dowonloaded jpg files used as icons
-
+#@# viva_400x400.jpg        森一樹
 
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
@@ -53,6 +53,24 @@
 Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 
 　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/viva_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        森一樹 @viva\_tweet\_x https://twitter.com/viva\_tweet\_x\\
+        サークル名： ふりかえり実践会・プロジェクトマネージャ保護者会
+        \end{minipage}
+    \hspace{1ex}
+//}
+ふりかえりを広めるため、日本全国で活動する「ふりかえりエバンジェリスト」。
+ふりかえりに関する書籍（アジャイルなチームをつくる ふりかえりガイドブック（翔泳社））やPodcast（ふりかえりam）を発信中。
+カンファレンスって色んな楽しみ方があるんです。黄色い人を見かけたら気軽に声をかけてくださいね！
+
+ 
+
 == 表紙イラスト・デザイン　
 
 //embed{
