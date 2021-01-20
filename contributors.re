@@ -82,6 +82,20 @@ TACO Organizer, カンファレンススタッフなどお手伝いをよくし�
 カンファレンスって色んな楽しみ方があるんです。黄色い人を見かけたら気軽に声をかけてくださいね！
 
  
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ikuodanaka_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        いきいきいくお @dora\_e\_m https://twitter.com/dora\_e\_m\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+　開発（Develop）を愛する人たちの集まり、DevLOVEによく出没する人。
+　所属する企業においては、研究開発のディレクションとエンジニアがいきいきと働けるDX（Developer eXperience）を重視した風土づくりという両輪を回し続けている。
+　近年はアジャイル開発に助けられているが、一番助けてくれているのはいつも一緒にいるチームメンバーたちだったりする。
+  著書『いちばんやさしいアジャイル開発の教本』（インプレス）
 
 == 表紙イラスト・デザイン　
 
