@@ -26,6 +26,7 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
+      "chap-entry.md",
       "chap-on-the-day.md",
       "chap-on-the-day-interaction.md",
       "chap-at-a-later-date.md",
