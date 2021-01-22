@@ -5,7 +5,7 @@
 - (WIP)いろんなナレッジが共有されるよー、という話
 ### SECIモデルで考える
 - (WIP)SECIモデルについての説明
-<!-- ![SECIモデル](images/chap-on-the-day/secimodel.png) -->
+![SECIモデル](chap-on-the-day/secimodel.png?scale=1.0)
 - (WIP) それぞれの現場で共同化された暗黙知が表出化しているのが個々のセッション
 - (WIP) 参加者のブログやdiscordでの対話を通じて連結化が進んでいく
 - (WIP) いかに内面化するか。
