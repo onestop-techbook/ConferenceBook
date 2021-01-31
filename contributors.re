@@ -18,24 +18,7 @@
 #@#//}
 #@# ここに一言コメントを書く
 
-== 発起人/編集
-
-　
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/i-kZmS-f_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        親方 @oyakata2438 https://twitter.com/oyakata2438\\
-        サークル名：親方Project
-        \end{minipage}
-    \hspace{1ex}
-//}
-ワンストップ本シリーズ企画・編集（一部執筆）してます。コミケと技術書典に出没。ついに技術書同人誌博覧会（技書博）のコアスタッフとして運営側に参加。早くいろいろ落ち着いてイベントが開催される日常に戻ってほしいですね・・・。著者募集はいつでもやってますので、ぜひご参加ください。
-
-== 執筆者
-
+== 発起人
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -50,7 +33,7 @@
 人の力で世界を便利にする企業で働いているWebディレクター
 Podcast生やすお兄さんとして、複数のPodcastを掛け持ちして配信をしています。
 
-　
+== 執筆者
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -114,6 +97,23 @@ TACO Organizer, カンファレンススタッフなどお手伝いをよくし�
 湊川あいです。今回も表紙イラストを担当させていただきました。親方さんから「タイムリーな話だから早く出したい」とご依頼いただいて、なんとその24時間後にはイラストが完成しました！
 
 こういうのは早さが大事……自分の原稿も頑張ります。（盛大なブーメラン）
+
+== 編集
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/i-kZmS-f_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        親方 @oyakata2438 https://twitter.com/oyakata2438\\
+        サークル名：親方Project
+        \end{minipage}
+    \hspace{1ex}
+//}
+ワンストップ本シリーズ企画・編集（一部執筆）してます。コミケや技術書典、技書博などの技術書を扱うイベントに出没。ついに技術書同人誌博覧会（技書博）のコアスタッフとして運営側に参加。早くいろいろ落ち着いてイベントが開催される日常に戻ってほしいですね・・・。著者募集はいつでもやってますので、ぜひご参加ください。
+
+
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
