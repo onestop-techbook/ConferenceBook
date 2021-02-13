@@ -54,7 +54,7 @@ Issue立ててください。
 また、プレーンテキストやWordとかでの提出も可能です。編集部にてコンバートします。
 
 ## CI
-https://app.wercker.com/oyakata2438/onestop-online/runs
+https://app.wercker.com/oyakata2438/ConferenceBook/runs
 でPDFが書きだされます。
 一番上のBuildをクリックすると展開されるので、
 Output Artifactをクリックして、Download artifactをクリックすると、
