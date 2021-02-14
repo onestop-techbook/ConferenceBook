@@ -27,13 +27,13 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
       "chap-entry.md",
+      "chap-preparing-to-attend.md",
       "chap-on-the-day.md",
       "chap-on-the-day-interaction.md",
       "chap-at-a-later-date.md",
       "chap-at-a-later-date-blog.md",
       "chap-staff.md",
-      "chap-twitter.md",
-      "chap-preparing-to-attend.md"
+      "chap-twitter.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
