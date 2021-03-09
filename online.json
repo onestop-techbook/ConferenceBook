@@ -35,7 +35,8 @@
       "chap-at-a-later-date-blog.md",
       "chap-staff.md",
       "chap-twitter.md",
-      "chap-cfp.md"
+      "chap-cfp.md",
+      "chap-organizer.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
