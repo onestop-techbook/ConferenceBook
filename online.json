@@ -26,6 +26,7 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
+      "chap-objective.md",
       "chap-entry.md",
       "chap-preparing-to-attend.md",
       "chap-on-the-day.md",
