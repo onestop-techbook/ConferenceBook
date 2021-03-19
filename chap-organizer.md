@@ -25,9 +25,9 @@
 
 ミッションとして、「デベロッパーをスターにし、世の中のアップデートを加速する」を設定しました。これは、スピーカーがスターになるのはもちろんですが、セッションに参加した人が様々なデベロッパーの発信から影響を受けて前向きなアクションを取り、身の回りの人たち、会社のチーム、社会、家族、友達などから尊敬・尊重され、デベロッパーがスターとして輝ける、そしてそうした人が増えることで世の中のアップデートを加速するということです。
 
-![近藤さんが考える「デベロッパーをスターに」の一例](images/chap-organizer/img1.png)
+![近藤さんが考える「デベロッパーをスターに」の一例](images/chap-organizer/img1.png) [^star]
 
-※↑これも次URLは上記画像の出典関係がわかるように（キャプション or 脚注）お願いしたいです！ https://speakerdeck.com/kondoyuko/planning-online-events-in-the-time-of-covid-19?slide=21
+[^star]: https://speakerdeck.com/kondoyuko/planning-online-events-in-the-time-of-covid-19?slide=21
 
 デブサミに参加してからエンジニア人生が変わったという声をたくさん聞くようになりました。CodeZineやデブサミに触れた方が、組織やコミュニティで前向きな行動を起こし、CodeZineの著者やデブサミの登壇者などになってくれることを願っています。
 
