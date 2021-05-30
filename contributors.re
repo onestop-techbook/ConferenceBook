@@ -81,6 +81,8 @@ TACO Organizer, カンファレンススタッフなどお手伝いをよくし�
 近年はアジャイル開発に助けられているが、一番助けてくれているのはいつも一緒にいるチームメンバーたちだったりする。
 著書『いちばんやさしいアジャイル開発の教本』（インプレス）
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -92,6 +94,21 @@ TACO Organizer, カンファレンススタッフなどお手伝いをよくし�
     \hspace{1ex}
 //}
 参加したカンファレンスでよく実況してる人。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/akimoon_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        aki.m @Aki\_Moon\_ https://twitter.com/Aki\_Moon\_\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+システム開発について色々と勉強中。様々なイベントに遍在しています
+
 
 == 表紙イラスト・デザイン　
 
