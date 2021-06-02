@@ -109,6 +109,22 @@ TACO Organizer, カンファレンススタッフなどお手伝いをよくし�
 //}
 システム開発について色々と勉強中。様々なイベントに遍在しています
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ditflame_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ふーれむ @ditflame https://twitter.com/ditflame\\
+        Qiitaでちょこちょこ技術ネタ書いたりしてます。 https://qiita.com/ditflame\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+大阪在住。前職はSIerでしたが数年前に飽きて今は恐らく社内SEになりました。ゼネラリスト的なやつです。
+関西はカンファレンスがないわけでもないのですが、シングルトラックの勉強会形式のものが多いので
+関東の事情がうらやましいなー　と思っていたのですが、最近はオンライン化されて格差が減ったな…と感じています。
 
 == 表紙イラスト・デザイン　
 
