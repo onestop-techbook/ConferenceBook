@@ -143,7 +143,7 @@ https://twitter.com/hbstudy
 
 こんにちは。Agile Tech EXPO[^agiletechexpo] と Agile Japan[^agilejapan] の運営をしておりますあやなるです。よろしくおねがいします。
 
-[^agiletechexpo]: Agile Tech Expo 2021年1月23日開催。 https://202101.agiletechexpo.com/ 次回は7月10日開催予定です。
+[^agiletechexpo]: Agile Tech EXPO 2021年1月23日開催。 https://202107.agiletechexpo.com/ 次回は7月10日開催予定。
 
 [^agilejapan]: Agile Japan 2020年11月17-18日開催。https://2020.agilejapan.jp/
 
@@ -152,7 +152,7 @@ https://twitter.com/hbstudy
 
 はい。特に、Agile Tech EXPOは、コロナ禍にオンラインで立ち上げて、これから育てて行きたいと意気込んでいるカンファレンスです。正式名称がちょっと長いので、「あじゃてく」と略して呼んでください。
 
-他にも、企業主催のテクノロジーカンファレンスを運営したことがあったり、社内やコミュニティのエンジニア勉強会をいくつか企画運営したり、開発現場で働く方々の学びの場づくり活動をしています。
+他にも、企業主催のテクノロジーカンファレンスを運営したことがあったり、社内やコミュニティのエンジニア勉強会を運営したり、開発現場で働く方々の学びの場づくりを日々しております。
 
 
 #### ―あじゃてくはどのようなカンファレンスなのですか？
