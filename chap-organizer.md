@@ -295,7 +295,7 @@ LT・講演は、時間いっぱい講演を聞くという形式。
 
 参加者全員にカンファレンス全体のふりかえりを『 ファン・ダン・ラーン(FDL)」[^fdl]』で行いました。この人数全員でふりかえるのは圧巻の一言です。
 
-![参加者全員でふりかえるのは圧巻](images/chap-organizer/dfl.jpg)
+![参加者全員でふりかえるのは圧巻](images/chap-organizer/fdl.jpg)
 
 
 [^fdl]: ファン・ダン・ラーン(FDL)ふりかえりボード https://qiita.com/yattom/items/90ac533d993d3a2d2d0f 2018年10月31日投稿　2021年8月14日閲覧
@@ -333,7 +333,7 @@ LT・講演は、時間いっぱい講演を聞くという形式。
 
 その頃、私は『ふりかえり実践会[^furikaerijissenkai]』でふりかえりを実践出来るワークショップを定期的に開催したり、『ふりかえり読本 場作り編～ふりかえるその前に～』を書き上げて「楽しいふりかえり」を世に広げるために尽力していました。
 
-[^furikaerijssenkai]: ふりかえり実践会　https://retrospective.connpass.com/
+[^furikaerijissenkai]: ふりかえり実践会　https://retrospective.connpass.com/
 
 [^furikaeribook]: ふりかえり読本 場作り編～ふりかえるその前に～ https://hurikaeri.booth.pm/items/1317828
  
