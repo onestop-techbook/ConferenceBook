@@ -357,7 +357,7 @@ LT・講演は、時間いっぱい講演を聞くという形式。
 
 そうして時が経ち、『ふりかえり実践会』のイベント実行回数も増え、イベント企画にも慣れていったり、『Regional Scrum Gathering Tokyo[^rsgt2021]』や各地での『スクラムフェス[^scrumfesosaka]』に参加して、様々な人たちと関わりを広げていくうちに、「この人たちに想いを伝えれば、実現できるかもしれない」という想いが強くなっていきました。
 
-[^rsgt]: Regional Scrum Gathering Tokyo https://2021.scrumgatheringtokyo.org/
+[^rsgt2021]: Regional Scrum Gathering Tokyo https://2021.scrumgatheringtokyo.org/
 [^scrumfesosaka]: SCRUM FEST OSAKA 2021 https://www.scrumosaka.org/
 
 また『ふりかえりam』で何十時間も一緒に収録を続けてきたKANEさんと一緒なら、きっとなんとかなるだろうという信頼もありました。
@@ -371,8 +371,6 @@ LT・講演は、時間いっぱい講演を聞くという形式。
 ふりかえりカンファレンスはこんなふうに始まりました。
 
 ![ふりかえりカンファレンスのはじまり](images/chap-organizer/start.jpg)
-
-[^furikaeriam]: ふりかえりam https://anchor.fm/furikaerisuruo/
 
 最初に『ふりかえり実践会のDiscord』で想いを伝え、カンファレンス企画・運営に興味のある人を募りました。当時は私が『ふりかえりガイドブック』の執筆で忙しかったのもあり、ベストエフォートで無理なく、スモールスタートで、を信条にして、それを伝えています。
 
